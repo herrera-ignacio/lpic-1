@@ -2,6 +2,8 @@
 
 These are my notes taken during preparation for LPIC-1 certification. Notes are based on debian distribution.
 
+> https://www.lpi.org/our-certifications/exam-101-objectives
+
 ## TOC
 
 * Introduction
