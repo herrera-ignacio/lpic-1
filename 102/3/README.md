@@ -1,4 +1,4 @@
-# 2. Manage shared libraries
+# 3. Manage shared libraries
 
 Should be able to determine shared libraries that executable programs depend on and install them when necessary.
 
