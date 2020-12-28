@@ -14,3 +14,4 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
   * [103.3 Change runlevels / boot targets and shutdown or reboot system](./101/3)
 * 102: Linux installation and Package Management
   * [102.1 Design hard disk layout](./102/1)
+  * [102.2 Install a boot manager](./102.2)
