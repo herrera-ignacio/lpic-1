@@ -19,3 +19,5 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
   * [102.4 Use Debian package management](./102.4)
   * [102.5 Use RPM and YUM package management](./102.5)
   * [102.6 Linux as a virtualization guest](./102.6)
+* 103: GNU and Unix Commands
+  * [103.1 Work on the command line](./103.1)
