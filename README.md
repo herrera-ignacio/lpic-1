@@ -22,3 +22,4 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
 * 103: GNU and Unix Commands
   * [103.1 Work on the command line](./103.1)
   * [103.2 Process text streams using filters](./103.2)
+  * [103.3 Perform basic file management](./103.3)
