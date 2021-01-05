@@ -26,3 +26,4 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
   * [103.4 Use streams, pipes and redirects](./103.4)
   * [103.5 Create, monitor and kill processes](./103.5)
   * [103.6 Modify process execution priorities](./103.6)
+  * [103.7 Search text files using regular expressions](./103.7)
