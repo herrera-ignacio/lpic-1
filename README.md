@@ -28,3 +28,5 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
   * [103.6 Modify process execution priorities](./103/6)
   * [103.7 Search text files using regular expressions](./103/7)
   * [103.8 Basic file editing](./103/8)
+* 104: Devices, Linux Filesystems, Filesystem Hierarchy Standard
+  * [104.1: Create partitions and filesystems](./104/1)
