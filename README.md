@@ -23,3 +23,5 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
   * [103.1 Work on the command line](./103.1)
   * [103.2 Process text streams using filters](./103.2)
   * [103.3 Perform basic file management](./103.3)
+  * [103.4 Use streams, pipes and redirects](./103.4)
+  * [103.5 Create, monitor and kill processes](./103.5)
