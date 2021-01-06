@@ -31,4 +31,7 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
   * [104.1: Create partitions and filesystems](./104/1)
   * [104.2: Maintain the integrity of filesystems](./104/2)
   * [104.3: Control mounting and unmount of filesystems](./104/3)
-
+  * 104.4: Removed
+  * [104.5: Manage file permissions and ownership](./104/5)
+  * [104.6: Create and change hard and symbolic links](./104/6)
+  * [104.7: Find system files and place files in correct location](./104/7)

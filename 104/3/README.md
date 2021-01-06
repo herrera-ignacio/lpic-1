@@ -1,4 +1,4 @@
-# 2. Control mounting and unmounting of filesystems
+# 3. Control mounting and unmounting of filesystems
 
 Should be able to configure the mounting of a filesystem.
 
