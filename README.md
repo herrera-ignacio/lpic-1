@@ -6,8 +6,7 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
 
 ## TOC
 
-* Introduction
-  * [Repositories](./repositories)
+* [Introduction](./introduction)
 * 101: System Architecture
   * [101.1 Determine and configure hardware settings](./101/1)
   * [101.2 Boot the system](./101/2)
@@ -30,3 +29,4 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
   * [103.8 Basic file editing](./103/8)
 * 104: Devices, Linux Filesystems, Filesystem Hierarchy Standard
   * [104.1: Create partitions and filesystems](./104/1)
+  * [104.2: Maintain the integrity of filesystems](./104/2)
