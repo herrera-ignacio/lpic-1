@@ -4,7 +4,7 @@ Should be thoroughly familiar with the _FHS (Filesystem Hierarchy Standard)_, in
 
 ## Key knowledge areas
 
-* Understand the correct locations of file under the FHS.
+* Understand the correct locations of file under the FHS (see [102.1 FHS section](../102/1)).
 * Find files and commands on a Linux system.
 * Know the location and purpose of important file and directories as defined in the FHS.
 
