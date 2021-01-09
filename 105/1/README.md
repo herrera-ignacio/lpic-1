@@ -47,7 +47,7 @@ Used to set environmental items for a __user's shell__.
 
 Used to set __system wide__ environmental variables on users shells. The variables are sometimes the same ones that are in the `.bash_profile`, however this file is used to set an initial `PATH` or `PS1` for all shell users of the systems.
 
-This is only executed for __interactive shells__.
+This is only executed for __interactive/login shells__ (can simulate with `bash -l`).
 
 #### `/etc/profile.d`
 
@@ -55,7 +55,7 @@ This is only executed for __interactive shells__.
 
 #### `~/.bashrc`
 
-Used to set __command aliases and functions__ used by __bash shell users__.
+Used to set __command aliases and functions__ used by __bash shell users__. This will run whenever we run `bash`.
 
 #### `~/.bash_aliases`
 
@@ -68,6 +68,10 @@ if [ -f ~/.bash_aliases ]; then
 . ~/.bash_aliases
 fi
 ```
+
+#### `~/.bash_logout`
+
+You can also customize logout behavior from login shells in `~/.bash_logout`.
 
 #### `/etc/bashrc` or `/etc/bash.bashrc`
 

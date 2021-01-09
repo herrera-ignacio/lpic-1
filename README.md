@@ -39,3 +39,4 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
 * 102 Exam
   * 105: Shells and Shell Scripting
     * [105.1: Customize and use the shell environment](./105/1)
+    * [105.2: Customize or write simple scripts](./105/2)
