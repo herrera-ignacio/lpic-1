@@ -43,3 +43,6 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
   * 106: User Interfaces and Desktops
     * [106.1 Install and configure X11](./106/1)
     * [106.2 Graphical Desktops](./106/2)
+    * [106.3 Accessibility](./106/3)
+  * 107: Administrative Tasks
+    * [107.1 Manage user and group accounts and related system files](./107/1)

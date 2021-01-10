@@ -1,4 +1,4 @@
-# 1. Graphical Desktops
+# 2. Graphical Desktops
 
 Should be aware of major Linux desktops. Furthermore, should be aware of protocols used to access remote desktop sessions.
 
