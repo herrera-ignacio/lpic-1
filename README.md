@@ -46,3 +46,4 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
     * [106.3 Accessibility](./106/3)
   * 107: Administrative Tasks
     * [107.1 Manage user and group accounts and related system files](./107/1)
+    * [107.2 Automate system administration tasks by scheduling jobs](./107/2)
