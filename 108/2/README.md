@@ -1,4 +1,4 @@
-# 1. Maintain system time
+# 2. Maintain system time
 
 Should be able to configure `rsyslog`. This also includes configuring the loggign daemon to send log output to a central log server or accept log output as a central log server. Use of the `systemd journal` subsystem is covered. Also, awareness of `syslog` and `syslog-ng` alternative logging systems.
 
