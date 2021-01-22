@@ -112,7 +112,7 @@ Once the grub boot loader loads the kernel and it has finished its startup proce
 
 #### SysVinit
 
-On systems based on SysVinit, __init__ is the first process that is executed once the Linux kernel loads. This process ir responsible for coordinating the start of the rest of the system services, configuring the user environment and essentialy bringing the system to a functional state.
+On systems based on SysVinit, __init__ is the first process that is executed once the Linux kernel loads. This process is responsible for coordinating the start of the rest of the system services, configuring the user environment and essentialy bringing the system to a functional state.
 
 * File `/etc/inittab` contains basic configuration.
 

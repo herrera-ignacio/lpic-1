@@ -50,3 +50,4 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
     * [107.3 Localisation and internationalisation](./107/3)
   * 108: Essential System Services
     * [108.1 Maintain system time](./108/1)
+    * [108.2 System logging](./108/2)
