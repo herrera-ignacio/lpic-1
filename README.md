@@ -52,6 +52,7 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
     * [108.1 Maintain system time](./108/1)
     * [108.2 System logging](./108/2)
     * [108.3 Mail Transfer Agent (MTA) basics](./108/3)
+    * [108.4 Manage printing and printers](./108/4)
 
 ## Additional Resources
 
