@@ -48,3 +48,5 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
     * [107.1 Manage user and group accounts and related system files](./107/1)
     * [107.2 Automate system administration tasks by scheduling jobs](./107/2)
     * [107.3 Localisation and internationalisation](./107/3)
+  * 108: Essential System Services
+    * [108.1 Maintain system time](./108/1)
