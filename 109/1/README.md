@@ -1,4 +1,4 @@
-#  1. Fundamentals of Internet Protocols
+# 1. Fundamentals of Internet Protocols
 
 Should demostrate proper understanding of TCP/IP network fundamentals.
 

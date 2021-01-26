@@ -55,7 +55,8 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
     * [108.4 Manage printing and printers](./108/4)
   * 109: Networking Fundamentals
     * [109.1: Fundamentals of internet protocols](./109/1)
+    * [109.2 Persistent network configuration](./109/2)
 
 ## Additional Resources
 
-* https://developer.ibm.com/tutorials/l-lpic1-map/
+* <https://developer.ibm.com/tutorials/l-lpic1-map/>
