@@ -60,6 +60,7 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
     * [109.4 Configure client side DNS](./109/4)
   * 110: Security
     * [110.1 Perform security administration tasks](./110/1)
+    * [110.2 Setup host security](./110/2)
 
 ## Additional Resources
 
