@@ -57,6 +57,7 @@ These are my notes taken during preparation for LPIC-1 certification. Notes are 
     * [109.1: Fundamentals of internet protocols](./109/1)
     * [109.2 Persistent network configuration](./109/2)
     * [109.3 Basic network troubleshooting](./109/3)
+    * [109.4 Configure client side DNS](./109/4)
 
 ## Additional Resources
 
